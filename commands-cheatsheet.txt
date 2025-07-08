@@ -3,3 +3,4 @@ git status - check current changes
 git add <file> - stage file
 git commit -m 'msg' - save snapshot
 git push - upload to GitHub
+git clone <url> - copy a repo from GitHub to your computer
