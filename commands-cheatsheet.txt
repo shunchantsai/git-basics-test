@@ -1,0 +1,5 @@
+## Git Commands Cheat Sheet
+git status - check current changes
+git add <file> - stage file
+git commit -m 'msg' - save snapshot
+git push - upload to GitHub
